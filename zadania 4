@@ -1,0 +1,42 @@
+Cyklotron przy±piesza protony i pozytony do energii E. Jaki b¦dzie
+promie« orbity R obu cz¡stek, je»eli indukcja magnetyczna wynosi B.
+Sporz¡dzi¢ wykresy dla B = 0.5 ÷ 1.0 T w dwóch przypadkach:
+a) E = 5 MeV , b) E = 10 MeV . Mas¦ elektronu me przyj¡¢ równ¡
+9.1 × 10−31 kg, a protonu mp = 1.7 × 10−27 kg. adunek elektronu
+e = 1.6 × 10−19 C.
+Krok 1: Znalezienie promienia orbity
+Krok 2: Obliczenie promienia orbity
+Krok 3: Obliczenia numeryczne
+Krok 4: Sporządzenie wykresów
+Elektron wpada z pr¦dko±ci¡ v w jednorodne pole magnetyczne, którego
+indukcja magnetyczna równa si¦ B. Kierunek pr¦dko±ci tworzy k¡t 30o
+z kierunkiem pola. Znale¹¢ promie« r zwoju spirali po której porusza
+si¦ elektron i jej skok h oraz sporz¡dzi¢ wykresy toru ruchu 
+dla nast¦puj¡cych przypadków: 
+a) v = 5000 km/h, B = 10−2 T,
+Krok 1: Przeliczenie prędkości na m/s
+Krok 2: Obliczenie składowych prędkości
+Krok 3: Obliczenie promienia zwoju spirali
+Krok 4: Obliczenie skoku spirali
+Zmienne w czasie jednorodne pole magnetyczne przechodzi prostopadle przez kwadratow¡ ramk¦ o boku a = 0.5 m, wykonan¡ z aluminium o przekroju poprzecznym S = 1.5 mm2
+. Wyznaczy¢ ilo±¢
+ciepªa jaka wydzieli si¦ w ramce w ci¡gu czasu t. Sporz¡dzi¢ wykresy
+dla t = 0 ÷ 10 s. Rozpatrzy¢ dwa przypadki zale»no±ci wektora indukcji magnetycznej B od czasu: a) B = a1t, Opór wªa±ciwy ρ aluminium przyj¡¢ równy
+2.9 × 10−8 Ωm
+Krok 1: Obliczenie prądu indukowanego
+Krok 2: Obliczenie mocy cieplnej
+Krok 3: Obliczenie ilości ciepła
+Krok 4: Sporządzenie wykresu ilości ciepła 
+Pole magnetyczne skierowane wzdªu» osi "x" opisuje wektor indukcji
+magnetycznej o równaniu B = ax, gdzie a = 5 T
+m
+. Prostopadle do
+osi "x", w kierunku osi "y" poruszaj¡ si¦ atomy sodu z szybko±ci¡
+vy. Wykre±li¢ trajektori¦ ruchu atomów sodu dla: a) vy = 200 ms,
+b) vy = 400 m/s, c) vy = 800 m/s Moment magnetyczny atomu sodu
+pmNa = 9.27 × 10−24 A m2, a jego masa mNa = 3.84 × 10−26 kg.
+Krok 1: Wyliczenie siły Lorentza
+Krok 2: Zastosowanie równania ruchu
+Krok 3: Rozwiązanie równania ruchu
+Krok 4: Integracja równania ruchu
+Krok 5: Sporządzenie trajektorii ruchu
