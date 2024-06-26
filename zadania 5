@@ -1,0 +1,66 @@
+zadanie 5
+1Foton jest rozpraszany na swobodnym elektronie.
+Wyznaczyć zmianę długości fali fotonu
+    Krok 1: Zrozumienie zjawiska Comptona
+    Krok 2: Równanie Comptona
+    Krok 3: Obliczenie stałej Comptona
+    Krok 4: Podstawienie wartości stałych
+    Krok 5: Podstawienie wartości do równania Comptona
+    Krok 6: Uwzględnienie kąta rozproszenia
+2Progowa długość fali dla wybicia fotoelektronów z metalicznego
+sodu wynosi gr = 5.45∙10-7
+m.a) wyznacz maksymalną prędkość elektronów wybijanych
+przez światło o długości fali
+ = 2∙10-7
+Krok 1: Znalezienie energii fotonu
+Krok 2: Obliczenie energii fotonu progowego
+Krok 3: Obliczenie energii fotonu dla
+Krok 4: Zastosowanie równania Einsteina dla zjawiska fotoelektrycznego
+Krok 5: Obliczenie maksymalnej prędkości elektronów
+Krok 6: Obliczenia końcowe
+Zadania domowe:
+Zad. 1
+Obliczyć wartość pędu elektronu odrzutu przy rozproszeniu comptonowskim fotonu pod kątem
+prostym do pierwotnego kierunku ruchu. Długość fali padającego fotonu λ0=5x10-12m.
+    Obliczenie zmiany długości fali fotonu
+    Obliczenie wartości
+    Obliczenie nowej długości fali fotonu
+    Obliczenie energii fotonu przed zderzeniem
+    Obliczenie energii fotonu po zderzeniu
+    Obliczenie zmiany energii fotonu
+    Obliczenie pędu elektronu
+Zad. 2
+Jaką energię uzyska pierwotnie spoczywający, swobodny elektron po rozproszeniu na nim fotonu
+o energii Eγ pod kątem θ?
+    Krok 1: Ustal dane i podstawowe równania:
+    Krok 2: Oblicz zmianę długości fali fotonu
+    Krok 3: Oblicz nową długość fali fotonu
+    Krok 4: Oblicz energię fotonu po rozproszeniu
+    Krok 5: Oblicz zmianę energii fotonu
+    Krok 6:Zastosuj zachowanie energii do elektronu
+
+Zad. 3
+Wyznaczyć długość fali światła wybijającego z powierzchni metalu elektrony, które są
+całkowicie zahamowane przez potencjał Vh
+. Zjawisko fotoelektryczne zaczyna się w tym
+metalu przy częstotliwości promieniowania υ
+    Krok 1: Wzory i stałe:
+    Krok 2: Wyznaczenie pracy wyjścia W
+    Krok 3: Obliczenie energii fotonu
+    Krok 4: Wyznaczenie długości fali
+
+Zad. 4
+Na powierzchnię metalu o pracy wyjścia W pada monochromatyczne promieniowanie o
+długości fali λ i wywołuje emisję elektronów. Jaki minimalny potencjał należy przyłożyć do
+metalu, aby zahamować emisję elektronów?
+  Krok 1: Obliczenie energii fotonu:
+  Krok 2: Zastosowanie równania Einsteina dla zjawiska fotoelektrycznego:
+  Krok 3: Energia kinetyczna a potencjał hamujący
+  Krok 4: Wyznaczenie minimalnego potencjału hamującego
+Zad. 5
+Długofalowa granica zjawiska fotoelektrycznego dla platyny wynosi około 198 nm. Po
+ogrzaniu platyny do wysokiej temperatury ta granica wynosi 220 nm. O ile ogrzewanie
+zmniejszyło pracę wyjścia?
+Krok 1: Obliczenie pracy wyjścia dla początkowej długości fali granicznej (198 nm)
+Krok 2: Obliczenie pracy wyjścia dla nowej długości fali granicznej (220 nm)
+Krok 3: Obliczenie zmiany pracy wyjścia
